@@ -1,16 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.Write("I like Pizza!");
-Console.WriteLine("It's really good!!");
-Console.ReadKey();
-Console.Beep();
+int x; //declaration
+x = 123; //initialisation
 
-//This is a comment
-/*
- * this
- * is
- * a mulitline comment
- */
+int y = 321; //declaration + initialisation
 
+int z = x + y;
+int j = z - y;
 
-
+Console.WriteLine(x);
+Console.WriteLine(y);
+Console.WriteLine(z);
+Console.WriteLine(j);
+Console.WriteLine(z+j);
