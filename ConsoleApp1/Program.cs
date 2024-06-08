@@ -6,6 +6,11 @@ Console.ReadKey();
 Console.Beep();
 
 //This is a comment
+/*
+ * this
+ * is
+ * a mulitline comment
+ */
 
 
 
